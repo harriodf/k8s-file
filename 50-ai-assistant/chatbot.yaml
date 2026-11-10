@@ -1,5 +1,5 @@
 # AI assistant - chatbot (Python): the chat UI at
-# https://shop.digitalwitch.online/chatbot/ (routed by frontend-proxy).
+# https://shop.harricloud.online/chatbot/ (routed by frontend-proxy).
 # Sends each question to the agent.
 apiVersion: v1
 kind: Service

@@ -7,7 +7,7 @@ commonAnnotations:
   argocd.argoproj.io/sync-wave: "5"
 
 # AI assistant: chatbot (chat UI) -> agent (LLM) -> mcp (shop tools).
-# Reached through the shop: https://shop.digitalwitch.online/chatbot/
+# Reached through the shop: https://shop.harricloud.online/chatbot/
 resources:
   - chatbot.yaml
   - agent.yaml
